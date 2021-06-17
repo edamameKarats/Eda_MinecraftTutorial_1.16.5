@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "buildersmod:mame_ore"
+	},
+	"result": "buildersmod:mame_ingot",
+	"experience": 0.6,
+	"cookingtime": 100
+}

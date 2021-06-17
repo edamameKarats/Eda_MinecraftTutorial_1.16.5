@@ -1,0 +1,15 @@
+{
+	"item.buildersmod.mame_ingot": "Mame Ingot",
+	"item.buildersmod.mame_axe": "Mame Axe",
+	"item.buildersmod.mame_boots": "Mame Boots",
+	"item.buildersmod.mame_chestplate": "Mame Chestplate",
+	"item.buildersmod.mame_helmet": "Mame Helmet",
+	"item.buildersmod.mame_hoe": "Mame Hoe",
+	"item.buildersmod.mame_leggings": "Mame Leggings",
+	"item.buildersmod.mame_pickaxe": "Mame Pickaxe",
+	"item.buildersmod.mame_shovel": "Mame Shovel",
+	"item.buildersmod.mame_sword": "Mame Sword",
+	"block.buildersmod.mame_block": "Mame Block",
+	"block.buildersmod.mame_ore": "Mame Ore",
+	"itemGroup.builders_mod": "Builders Mod"
+}

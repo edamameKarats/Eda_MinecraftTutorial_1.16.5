@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PP",
+		"PQ",
+		" Q"
+	],
+	"key": {
+		"P": {
+			"item": "buildersmod:mame_ingot"
+		},
+		"Q": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "buildersmod:mame_axe",
+		"count": 1
+	}
+}
