@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"P P",
+		"P P"
+	],
+	"key": {
+		"P": {
+			"item": "buildersmod:mame_ingot"
+		}
+	},
+	"result": {
+		"item": "buildersmod:mame_leggings",
+		"count": 1
+	}
+}

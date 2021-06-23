@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "facing=east,open=false,part2x2=co_11": { "model": "buildersmod:block/single_door_close", "y": 90 },
+    "facing=south,open=false,part2x2=co_11": { "model": "buildersmod:block/single_door_close", "y": 180 },
+    "facing=west,open=false,part2x2=co_11": { "model": "buildersmod:block/single_door_close", "y": 270 },
+    "facing=north,open=false,part2x2=co_11": { "model": "buildersmod:block/single_door_close", "y": 0 },
+    "facing=east,open=true,part2x2=co_11": { "model": "buildersmod:block/single_door_open", "y": 90 },
+    "facing=south,open=true,part2x2=co_11": { "model": "buildersmod:block/single_door_open", "y": 180 },
+    "facing=west,open=true,part2x2=co_11": { "model": "buildersmod:block/single_door_open", "y": 270 },
+    "facing=north,open=true,part2x2=co_11": { "model": "buildersmod:block/single_door_open", "y": 0 },
+
+    "facing=east,open=false,part2x2=c_21": { "model": "buildersmod:block/single_door_close", "y": 90 },
+    "facing=south,open=false,part2x2=c_21": { "model": "buildersmod:block/single_door_close", "y": 180 },
+    "facing=west,open=false,part2x2=c_21": { "model": "buildersmod:block/single_door_close", "y": 270 },
+    "facing=north,open=false,part2x2=c_21": { "model": "buildersmod:block/single_door_close", "y": 0 },
+    "facing=east,open=true,part2x2=c_21": { "model": "buildersmod:block/single_door_none", "y": 90 },
+    "facing=south,open=true,part2x2=c_21": { "model": "buildersmod:block/single_door_none", "y": 180 },
+    "facing=west,open=true,part2x2=c_21": { "model": "buildersmod:block/single_door_none", "y": 270 },
+    "facing=north,open=true,part2x2=c_21": { "model": "buildersmod:block/single_door_none", "y": 0 },
+
+    "facing=east,open=false,part2x2=o_21": { "model": "buildersmod:block/single_door_none", "y": 90 },
+    "facing=south,open=false,part2x2=o_21": { "model": "buildersmod:block/single_door_none", "y": 180 },
+    "facing=west,open=false,part2x2=o_21": { "model": "buildersmod:block/single_door_none", "y": 270 },
+    "facing=north,open=false,part2x2=o_21": { "model": "buildersmod:block/single_door_none", "y": 0 },
+    "facing=east,open=true,part2x2=o_21": { "model": "buildersmod:block/single_door_open", "y": 90 },
+    "facing=south,open=true,part2x2=o_21": { "model": "buildersmod:block/single_door_open", "y": 180 },
+    "facing=west,open=true,part2x2=o_21": { "model": "buildersmod:block/single_door_open", "y": 270 },
+    "facing=north,open=true,part2x2=o_21": { "model": "buildersmod:block/single_door_open", "y": 0 },
+
+    "facing=east,open=false,part2x2=co_12": { "model": "buildersmod:block/single_door_close", "y": 90 },
+    "facing=south,open=false,part2x2=co_12": { "model": "buildersmod:block/single_door_close", "y": 180 },
+    "facing=west,open=false,part2x2=co_12": { "model": "buildersmod:block/single_door_close", "y": 270 },
+    "facing=north,open=false,part2x2=co_12": { "model": "buildersmod:block/single_door_close", "y": 0 },
+    "facing=east,open=true,part2x2=co_12": { "model": "buildersmod:block/single_door_open", "y": 90 },
+    "facing=south,open=true,part2x2=co_12": { "model": "buildersmod:block/single_door_open", "y": 180 },
+    "facing=west,open=true,part2x2=co_12": { "model": "buildersmod:block/single_door_open", "y": 270 },
+    "facing=north,open=true,part2x2=co_12": { "model": "buildersmod:block/single_door_open", "y": 0 },
+
+    "facing=east,open=false,part2x2=c_22": { "model": "buildersmod:block/single_door_close", "y": 90 },
+    "facing=south,open=false,part2x2=c_22": { "model": "buildersmod:block/single_door_close", "y": 180 },
+    "facing=west,open=false,part2x2=c_22": { "model": "buildersmod:block/single_door_close", "y": 270 },
+    "facing=north,open=false,part2x2=c_22": { "model": "buildersmod:block/single_door_close", "y": 0 },
+    "facing=east,open=true,part2x2=c_22": { "model": "buildersmod:block/single_door_none", "y": 90 },
+    "facing=south,open=true,part2x2=c_22": { "model": "buildersmod:block/single_door_none", "y": 180 },
+    "facing=west,open=true,part2x2=c_22": { "model": "buildersmod:block/single_door_none", "y": 270 },
+    "facing=north,open=true,part2x2=c_22": { "model": "buildersmod:block/single_door_none", "y": 0 },
+
+    "facing=east,open=false,part2x2=o_22": { "model": "buildersmod:block/single_door_none", "y": 90 },
+    "facing=south,open=false,part2x2=o_22": { "model": "buildersmod:block/single_door_none", "y": 180 },
+    "facing=west,open=false,part2x2=o_22": { "model": "buildersmod:block/single_door_none", "y": 270 },
+    "facing=north,open=false,part2x2=o_22": { "model": "buildersmod:block/single_door_none", "y": 0 },
+    "facing=east,open=true,part2x2=o_22": { "model": "buildersmod:block/single_door_open", "y": 90 },
+    "facing=south,open=true,part2x2=o_22": { "model": "buildersmod:block/single_door_open", "y": 180 },
+    "facing=west,open=true,part2x2=o_22": { "model": "buildersmod:block/single_door_open", "y": 270 },
+    "facing=north,open=true,part2x2=o_22": { "model": "buildersmod:block/single_door_open", "y": 0 }
+
+  }
+}

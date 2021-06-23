@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "buildersmod:mame_block"
+		}
+	],
+	"result": {
+		"item": "buildersmod:mame_ingot",
+		"count": 9
+	}
+}
