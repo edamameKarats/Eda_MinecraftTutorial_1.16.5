@@ -16,7 +16,7 @@ def readFileAndGenerateData(filePath):
     array_from=eval(re.sub(',$', '', item_from.split(':')[1]))
     array_to=eval(re.sub(',$', '', item_to.split(':')[1]))
     result_n=result_n+'Block.box('+str(array_from[0])+","+str(array_from[1])+","+str(array_from[2])+','+str(array_to[0])+","+str(array_to[1])+","+str(array_to[2])+'),'
-    result_e=result_e+'Block.box('+str(16-array_from[2])+","+str(array_from[1])+","+str(array_from[0])+','+str(16-array_to[2])+","+str(array_to[1])+","+str(array_to[1])+'),'
+    result_e=result_e+'Block.box('+str(16-array_from[2])+","+str(array_from[1])+","+str(array_from[0])+','+str(16-array_to[2])+","+str(array_to[1])+","+str(array_to[0])+'),'
     result_s=result_s+'Block.box('+str(16-array_from[0])+","+str(array_from[1])+","+str(16-array_from[2])+','+str(16-array_to[0])+","+str(array_to[1])+","+str(16-array_to[2])+'),'
     result_w=result_w+'Block.box('+str(array_from[2])+","+str(array_from[1])+","+str(16-array_from[0])+','+str(array_to[2])+","+str(array_to[1])+","+str(16-array_to[0])+'),'
 
